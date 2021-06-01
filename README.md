@@ -1,2 +1,2 @@
-# Transfer Learning Chest Xrays
+# Transfer-Learning-Chest-Xrays
 Detecting Pneumonia using transfer learning on chest xray images
