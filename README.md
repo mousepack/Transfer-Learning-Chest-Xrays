@@ -16,7 +16,7 @@ Download the dataset and place it in the root of repository with name 'dataset' 
 
 #### Cloning the repository
 ```
-git clone https://github.com/vinaya8/Transfer-Learning-on-Chest-X-Ray-Images.git
+https://github.com/mousepack/Transfer-Learning-Chest-Xrays.git
 ```
 #### Installing the dependencies
 ```
@@ -40,7 +40,7 @@ The trained weights for best customised models in all the pre-trained techniques
 The custom models architecture made from the pre-trained models can be accessed in the JSON format from the following [link](https://www.dropbox.com/sh/hv37l5snpv9rxt4/AAB5h05b8D1d4I1LRyj9qRHTa?dl=0)
 
 ### Accuracies
-![result](https://github.com/vinaya8/Transfer-Learning-on-Chest-X-Ray-Images/blob/master/accuracyvsmodel.png)
+![result](https://github.com/mousepack/Transfer-Learning-Chest-Xrays/blob/3281a25ced3a05a9ce88867c92a44caee96257d4/accuracyvsmodel.png)
 
 ### ROC Curves
-![result](https://github.com/vinaya8/Transfer-Learning-on-Chest-X-Ray-Images/blob/master/roc.png)
+![result](https://github.com/mousepack/Transfer-Learning-Chest-Xrays/blob/3281a25ced3a05a9ce88867c92a44caee96257d4/roc.png)
