@@ -1,5 +1,5 @@
 # Transfer Learning on Chest X-Ray Images
-Application of Transfer Learning on Chest X-Ray Images to detect Pneumonia
+Application of Transfer Learning on Chest X-Ray Images to detect Pneumonia.
 
 ## Dataset
 [Labeled Optical Coherence Tomography-(OCT) and Chest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2)
